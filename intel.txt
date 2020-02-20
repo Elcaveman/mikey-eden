@@ -1,0 +1,9 @@
+this one is usefull to navigate pages in gogoanime you can skip api part
+and see the https://www9.gogoanime.io/?page=3 so usefull when we'll be doing deep search 
+
+**********************************************************
+
+to search for keywords:
+https://gogoanimes.ai/search.html?keyword=****kono+subarashi******&id=-1 (+ == space)
+***********************************************************
+episodes in URLS : First <li> is the last realease

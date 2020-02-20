@@ -1,0 +1,8 @@
+add{
+    background-image: url();
+    opacity: 70%;
+    background-size:   contain;
+}
+add:hover{
+    opacity: 40%;
+}

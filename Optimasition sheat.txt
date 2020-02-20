@@ -1,0 +1,26 @@
+instead of using List in Newrel//notifwin that gets every episode of every show:
+use inside list with a max of 4 item list:
+LOgic: if len<4: hide next and previous
+	if len == 4 do a fetchone test:
+		if fetchone == None hide next and previous
+		else: show next :D (for page 0)
+
+---------------------------------------------------------------------------------------------
+while scraping every URL instead of using .. use multiprocessing or threading
+(add it as a course to be done)
+
+----------------------------------------------------------------------------------------------
+make shortcuts to main
+----------------------------------------------------------------------------------------------
+make an inistaller and installer
+----------------------------------------------------------------------------------------------
+use multi processing when notifications are ON
+----------------------------------------------------------------------------------------------
+make an on off button and a loading icon
+LOGIC:
+	2 overlaping icons: nike // loading circle 
+	when a function is executed set nike to non vis and load to vis
+	and vis versa.
+-----------------------------------------------------------------------------------------------
+there's alot of similar procedure you can proceed to define them in functions
+to make the code more readable and less wordy
